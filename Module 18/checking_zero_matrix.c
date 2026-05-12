@@ -18,7 +18,6 @@ int main()
             }
         
         }
-
     }
     if(total_val== zero){
         printf("This is a zero matrix");
